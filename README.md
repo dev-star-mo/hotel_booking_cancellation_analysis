@@ -74,7 +74,7 @@ properties.
 
 Analysis (EDA), Data Visualization, and Business Analytics.
 
-How to Run the Project
+## How to Run the Project
 
 Clone the repository:
 

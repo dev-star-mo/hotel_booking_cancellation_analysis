@@ -76,22 +76,23 @@ Analysis (EDA), Data Visualization, and Business Analytics.
 
 ## How to Run the Project
 
-Clone the repository:
+## Clone the repository:
 
-Bash
+git clone 
+```
+https://github.com/dev-star-mo/hotel_booking_cancellation_analysis.git
+```
 
-git clone [https://github.com/dev-star-mo/hotel_booking_cancellation_analysis.git](https://github.com/dev-star-mo/hotel_booking_cancellation_analysis.git)
+## Navigate into the project
 
 cd hotel_booking_cancellation_analysis
 
-Install dependencies:
-
-Bash
+## Install dependencies:
 
 pip install pandas numpy matplotlib seaborn jupyter
 
-Open the notebook:
-
-Bash
+## Open the notebook:
 
 jupyter notebook hotel_booking_cancellation_analysis.ipynb
+
+Run the notebook cells from top to bottom.

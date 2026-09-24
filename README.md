@@ -74,24 +74,26 @@ properties.
 
 Analysis (EDA), Data Visualization, and Business Analytics.
 
+
+
 ## How to Run the Project
 
-## Clone the repository:
+### Clone the repository:
 
 git clone 
 ```
 https://github.com/dev-star-mo/hotel_booking_cancellation_analysis.git
 ```
 
-## Navigate into the project
+### Navigate into the project
 
 cd hotel_booking_cancellation_analysis
 
-## Install dependencies:
+### Install dependencies:
 
 pip install pandas numpy matplotlib seaborn jupyter
 
-## Open the notebook:
+### Open the notebook:
 
 jupyter notebook hotel_booking_cancellation_analysis.ipynb
 
